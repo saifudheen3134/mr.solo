@@ -1,0 +1,16 @@
+.color{
+    text-decoration: none;
+    color: #fff;
+}
+
+.scroll{
+    scroll-behavior: smooth;
+}
+
+.headerfix{
+    position: fixed;width: 100%; z-index: 1;
+}
+
+.home{
+    padding-top: 8em;
+}
